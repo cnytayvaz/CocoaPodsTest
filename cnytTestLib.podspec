@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
-    s.name = 'cnytTest'
-    s.version = '1.0.1'
+    s.name = 'cnytTestLib'
+    s.version = '0.0.8'
     s.summary = 'Analytics and Customer Engagement Tool'
     s.homepage = 'https://github.com/cnytayvaz/CocoaPodsTest'
 
