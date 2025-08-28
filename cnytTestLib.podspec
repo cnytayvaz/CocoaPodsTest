@@ -1,10 +1,10 @@
 Pod::Spec.new do |s|
     s.name = 'cnytTestLib'
-    s.version = '0.0.8'
+    s.version = '0.0.9'
     s.summary = 'Analytics and Customer Engagement Tool'
     s.homepage = 'https://github.com/cnytayvaz/CocoaPodsTest'
 
-    s.author = { 'Cüneyt Ayvaz' => 'cuneyt.ayvaz@dataroid.com' }
+    s.author = { 'Cüneyt Ayvaz' => 'cnyt.ayvaz@gmail.com' }
     s.license = { :type => 'Cnyt', :file => 'LICENSE' }
 
     s.platform = :ios
